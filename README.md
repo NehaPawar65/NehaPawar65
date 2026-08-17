@@ -8,12 +8,12 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java, C, JavaScript
-**Frontend:** HTML, CSS, React
-**Backend:** Spring Boot, Node.js, Express.js, REST APIs
-**Database:** MySQL, PostgreSQL
-**Core:** OOP, DSA, Collections, JDBC
-**Tools:** Git, GitHub
+* **Languages:** Java, C, JavaScript
+* **Frontend:** HTML, CSS, React
+* **Backend:** Spring Boot, Node.js, Express.js, REST APIs
+* **Database:** MySQL, PostgreSQL
+* **Core:** OOP, DSA, Collections, JDBC
+* **Tools:** Git, GitHub
 
 ### 📈 Problem Solving
 
