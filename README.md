@@ -1,28 +1,34 @@
-#Hi there 👋 I'm Neha Pawar
+# Hi there 👋 I'm Neha Pawar
 
-💻 Java Developer | Aspiring Full Stack Java Developer
+💻 **Java Developer | Aspiring Full Stack Developer**
 
-🎓 CSIT Engineering Student at RIT, Rajaramnagar
+🎓 CSIT Engineering Student at **RIT, Rajaramnagar**
 
-🚀 Passionate about building scalable applications and solving real-world problems through code.
+🚀 Passionate about software development, problem solving, and building real-world applications.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-- Java, OOP, Collections Framework, JDBC
-- HTML, CSS, JavaScript, React
-- MySQL
-- Git & GitHub
-- Currently Learning: Spring Boot
+**Languages:** Java, C, JavaScript
+**Frontend:** HTML, CSS, React
+**Backend:** Spring Boot, Node.js, Express.js, REST APIs
+**Database:** MySQL, PostgreSQL
+**Core:** OOP, DSA, Collections, JDBC
+**Tools:** Git, GitHub
 
-📈 Problem Solving
+### 📈 Problem Solving
 
-- Regularly practicing Data Structures & Algorithms
-- Active on LeetCode, GeeksforGeeks
+* Solving DSA problems on LeetCode, GeeksforGeeks & CodeChef.
+* 🏆 LeetCode 100 Days Badge
+* 🥉 CodeChef Bronze Badge
 
-🎯 Goal
+### 🌱 Currently Learning
 
-To become a skilled Full Stack Java Developer and contribute to impactful software products.
+**Spring Boot | Node.js | Express.js**
 
-📫 Email: nehapawar0605@gmail.com
+### 🎯 Goal
 
-⭐ Code. Learn. Build. Repeat.
+To become a **skilled Full Stack Developer** and build impactful software products.
+
+📫 **Email:** [nehapawar0605@gmail.com](mailto:nehapawar0605@gmail.com)
+
+⭐ **Code. Learn. Build. Repeat.**
