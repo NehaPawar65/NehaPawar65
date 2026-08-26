@@ -8,12 +8,12 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java, C, C#, JavaScript, HTML, CSS
-**Frontend:** React, Redux Toolkit
-**Backend:** Spring Boot, Node.js, Express.js, REST APIs, JDBC
-**Database:** MySQL, PostgreSQL, MongoDB
-**Tools & Technologies:** Prisma, .NET, Git, GitHub, Vercel
-**Core:** OOP, Data Structures & Algorithms, Java Collections
+* **Languages:** Java, C, C#, JavaScript, HTML, CSS
+* **Frontend:** React, Redux Toolkit
+* **Backend:** Spring Boot, Node.js, Express.js, REST APIs, JDBC
+* **Database:** MySQL, PostgreSQL, MongoDB
+* **Tools & Technologies:** Prisma, .NET, Git, GitHub, Vercel
+* **Core:** OOP, Data Structures & Algorithms, Java Collections
 
 ### 📈 Problem Solving
 
