@@ -29,7 +29,7 @@
 
 * 🌐 Portfolio: [orbit-portfolio-xi.vercel.app](https://orbit-portfolio-xi.vercel.app/)
 * 📧 Email: nehapawar0605@gmail.com
-* 💼 LinkedIn: linkedin.com/in/neha-pawar
-* 💻 GitHub: github.com/nehapawar
+* 💼 LinkedIn: [https:/linkedin.com/in/neha-pawar](https://www.linkedin.com/in/nehapawar0605/)
+* 💻 GitHub: [https:/github.com/nehapawar](https://github.com/NehaPawar65)
 
 ⭐ **Code. Learn. Build. Repeat.**
