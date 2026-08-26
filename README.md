@@ -8,27 +8,26 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Java, C, JavaScript
-* **Frontend:** HTML, CSS, React
-* **Backend:** Spring Boot, Node.js, Express.js, REST APIs
-* **Database:** MySQL, PostgreSQL
-* **Core:** OOP, DSA, Collections, JDBC
-* **Tools:** Git, GitHub
+**Languages:** Java, C, C#, JavaScript, HTML, CSS
+**Frontend:** React, Redux Toolkit
+**Backend:** Spring Boot, Node.js, Express.js, REST APIs, JDBC
+**Database:** MySQL, PostgreSQL, MongoDB
+**Tools & Technologies:** Prisma, .NET, Git, GitHub, Vercel
+**Core:** OOP, Data Structures & Algorithms, Java Collections
 
 ### 📈 Problem Solving
 
-* Solving DSA problems on LeetCode, GeeksforGeeks & CodeChef.
+* Solved **500+ DSA problems** across LeetCode, GeeksforGeeks & CodeChef.
 * 🏆 LeetCode 100 Days Badge
 * 🥉 CodeChef Bronze Badge
 
 ### 🌱 Currently Learning
 
-**Spring Boot | Node.js | Express.js**
+**Advanced Java | Spring Boot | C# & .NET | Full Stack Development**
 
-### 🎯 Goal
+### 📫 Connect With Me
 
-To become a **skilled Full Stack Developer** and build impactful software products.
-
-📫 **Email:** [nehapawar0605@gmail.com](mailto:nehapawar0605@gmail.com)
+📧 **Email:** [nehapawar0605@gmail.com](mailto:nehapawar0605@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/neha-pawar](https://linkedin.com/in/neha-pawar)
 
 ⭐ **Code. Learn. Build. Repeat.**
