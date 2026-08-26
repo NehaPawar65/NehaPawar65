@@ -27,7 +27,9 @@
 
 ### 📫 Connect With Me
 
-📧 **Email:** [nehapawar0605@gmail.com](mailto:nehapawar0605@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/neha-pawar](https://linkedin.com/in/neha-pawar)
+🌐 Portfolio: orbit-portfolio-xi.vercel.app
+📧 Email: nehapawar0605@gmail.com
+💼 LinkedIn: linkedin.com/in/neha-pawar
+💻 GitHub: github.com/nehapawar
 
 ⭐ **Code. Learn. Build. Repeat.**
