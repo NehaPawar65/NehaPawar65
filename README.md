@@ -12,7 +12,7 @@
 * **Frontend:** React
 * **Backend:** Spring Boot, Node.js, Express.js, REST APIs, JDBC
 * **Database:** MySQL, PostgreSQL
-* **Tools & Technologies:**Git, GitHub
+* **Tools & Technologies:** Git, GitHub
 * **Core:** OOP, Data Structures & Algorithms, Java Collections
 
 ### 📈 Problem Solving
