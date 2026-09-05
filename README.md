@@ -9,10 +9,10 @@
 ### 🛠️ Tech Stack
 
 * **Languages:** Java, C, C#, JavaScript, HTML, CSS
-* **Frontend:** React, Redux Toolkit
+* **Frontend:** React
 * **Backend:** Spring Boot, Node.js, Express.js, REST APIs, JDBC
-* **Database:** MySQL, PostgreSQL, MongoDB
-* **Tools & Technologies:** Prisma, .NET, Git, GitHub, Vercel
+* **Database:** MySQL, PostgreSQL
+* **Tools & Technologies:**Git, GitHub
 * **Core:** OOP, Data Structures & Algorithms, Java Collections
 
 ### 📈 Problem Solving
@@ -23,7 +23,7 @@
 
 ### 🌱 Currently Learning
 
-**Advanced Java | Spring Boot | C# & .NET | Full Stack Development**
+**Advanced Java | Spring Boot | C# | Full Stack Development**
 
 ### 📫 Connect With Me
 
